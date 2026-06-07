@@ -1,1 +1,0 @@
-The data used in the juptyer notebook come from the website courtlistener.com. Anyone can freely access this data by creating a free account, obtaining an API key, and using the following URL query: https://www.courtlistener.com/api/rest/v4/opinions/?cluster__docket__court=scotus&cluster__date_filed__gte=2005-09-29&type=010combined.
